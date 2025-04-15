@@ -1,0 +1,78 @@
+{
+  "name": "Pinky Blossom",
+  "description": "A soft, pastel pink theme inspired by cherry blossoms and gentle spring vibes.",
+  "authors": [
+    {
+      "name": "@Simo",
+      "id": "your_discord_id_here"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#FADADD"],
+    "HEADER_SECONDARY": ["#F4B8C7"],
+    "TEXT_NORMAL": ["#FFEAF1"],
+    "TEXT_MUTED": ["#F7C7D2"],
+    "TEXT_LINK": ["#FF88B0"],
+    "INTERACTIVE_NORMAL": ["#FFB6C1"],
+    "INTERACTIVE_HOVER": ["#FFA1BA"],
+    "INTERACTIVE_ACTIVE": ["#FF88B0"],
+    "INTERACTIVE_MUTED": ["#F4B8C7"],
+    "BACKGROUND_PRIMARY": ["#2B1D26"],
+    "BACKGROUND_SECONDARY": ["#3B2C36"],
+    "BACKGROUND_SECONDARY_ALT": ["#3F2D39"],
+    "BACKGROUND_TERTIARY": ["#4D3A46"],
+    "BACKGROUND_ACCENT": ["#5B3F51"],
+    "BACKGROUND_FLOATING": ["#3A2732"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#3A2732"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#2B1D26"],
+    "BACKGROUND_NESTED_FLOATING": ["#3F2D39"],
+    "BACKGROUND_MESSAGE_HOVER": ["#463140"],
+    "BACKGROUND_MODIFIER_HOVER": ["#3A2732"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#4F3B48"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#5B3F51"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#4F3B48"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#3B2C36"],
+    "CHANNELS_DEFAULT": ["#FFB6C1"],
+    "TEXT_DANGER": ["#FF6B8B"],
+    "KEYBOARD": ["#3F2D39"],
+    "CHANNEL_ICON": ["#FFB6C1"],
+    "CHAT_BACKGROUND": ["#2B1D26"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#5B3F51"],
+    "SPOILER_REVEALED_BACKGROUND": ["#6D4A5F"]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#FFEAF1",
+    "PRIMARY_200": "#F7C7D2",
+    "PRIMARY_300": "#F4B8C7",
+    "PRIMARY_360": "#FFB6C1",
+    "PRIMARY_400": "#FF88B0",
+    "PRIMARY_500": "#E06D8D",
+    "PRIMARY_600": "#C25779",
+    "PRIMARY_630": "#A84868",
+    "PRIMARY_660": "#8D3B58",
+    "PRIMARY_700": "#732E47",
+    "PRIMARY_800": "#592235",
+
+    "BRAND_260": "#FFB6C1",
+    "BRAND_360": "#FF88B0",
+    "BRAND_500": "#E06D8D",
+    "BRAND_560": "#C25779",
+    "WHITE_500": "#FFEAF1",
+    "YELLOW_300": "#FDDDE6",
+    "GREEN_360": "#A3E4D7",
+    "RED_400": "#FF6B8B"
+  },
+  "plus": {
+    "version": 0,
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "StatusStreaming": "#FF88B0",
+      "StatusMobileOnline": "#A3E4D7",
+      "StatusIdle": "#FFB347",
+      "StatusDND": "#FF6B8B",
+      "StatusOffline": "#6E4955",
+      "StatusOnline": "#A3E4D7"
+    }
+  },
+  "spec": 2
+}
